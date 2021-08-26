@@ -4,8 +4,8 @@ Antes de gerar qualquer sugestão, verificar os pontos abaixo:
  
 1º - Parâmetro DDV (que normalmente fica como Venda Média): esse parâmetro fica na tela de Consulta de Pedido Compra em Tipo Cálculo DDV
 
-2º - parâmetro de dias cálculo DDV que fica no Encerramento Diário: que recomendo deixar 30 dias.
+2º - Parâmetro de dias cálculo DDV que fica no Encerramento Diário: que recomendo deixar 30 dias.
 
-3º - configurar prazos do fornecedor (dentro do cadastro do Fornecedor, aba Prazos): nesse passo 3º você define prazos de entrega e dias de segurança, etc...
+3º - Configurar prazos do fornecedor (dentro do cadastro do Fornecedor, aba Prazos): nesse passo 3º você define prazos de entrega e dias de segurança, etc...
 
-4º passo o cadastro do produto, Dados Complementares
+4º - Cadastro do produto, Dados Complementares
